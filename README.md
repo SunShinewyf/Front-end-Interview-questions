@@ -1278,6 +1278,7 @@ js操作获取和设置cookie
  
 再加上一个关于这方面的链接:(1)http://ddnode.com/2014/09/20/%E5%89%8D%E7%AB%AF/%E6%9C%89%E5%85%B3%E4%BA%8Ecss%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%E5%92%8C%E7%BB%83%E4%B9%A0.html
 (2)http://www.cnphp6.com/archives/98894
+（3）http://ued.taobao.org/blog/2007/11/job_test_explanation/
 
   [1]: /img/bVldFY
   [2]: http://segmentfault.com/blog/trigkit4/1190000000718840
