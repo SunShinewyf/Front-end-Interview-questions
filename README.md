@@ -1280,6 +1280,7 @@ js操作获取和设置cookie
 (2)http://www.cnphp6.com/archives/98894
 （3）http://ued.taobao.org/blog/2007/11/job_test_explanation/
 (4)https://github.com/csucoderlee/javascript/issues/1
+(5)http://www.ido321.com/1409.html
 
   [1]: /img/bVldFY
   [2]: http://segmentfault.com/blog/trigkit4/1190000000718840
