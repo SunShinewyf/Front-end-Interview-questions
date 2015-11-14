@@ -1297,3 +1297,4 @@ js操作获取和设置cookie
   [13]: http://segmentfault.com/blog/trigkit4/1190000002174034
   [14]: http://segmentfault.com/blog/trigkit4/1190000000691919
   [15]: http://segmentfault.com/blog/trigkit4/1190000000733959
+  [16]:https://github.com/JacksonTian/fks
