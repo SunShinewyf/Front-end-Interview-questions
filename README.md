@@ -1281,6 +1281,8 @@ js操作获取和设置cookie
 （3）http://ued.taobao.org/blog/2007/11/job_test_explanation/
 (4)https://github.com/csucoderlee/javascript/issues/1
 (5)http://www.ido321.com/1409.html
+(6)https://gold.xitu.io/collection/588c62401e35c9341b3f734c?from=singlemessage
+(7)https://mp.weixin.qq.com/s?__biz=MzI3MDE0MzAzMw==&mid=2652202028&idx=1&sn=839c8c7bcaff43cd7630a222aa5ec392&chksm=f1345f7ac643d66c5991ca295ec47cba69624a082dc88fdf537f9c08a171978812e9b26bda76&scene=0&key=5da53c472edd2f622706834c1d05774bc925c8a079449ec5a8c887dcbcd48af9c3bb93f053af1b89b34a74c11698df9890db4f112406d9baec77b23965010cf87a73aecf0fb0e50e4e531638e208ca9c&ascene=0&uin=MTI2NTc0NTc2MQ%253D%253D&devicetype=iMac+MacBookPro12%252C1+OSX+OSX+10.12.2+build(16C67)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=Rn6FVLK7SkgJm1JhPjdTyZLmuYwq2dlB5mmu29s%252BGakRwkerrxLc0QVq%252FUxCalWq
 
   [1]: /img/bVldFY
   [2]: http://segmentfault.com/blog/trigkit4/1190000000718840
